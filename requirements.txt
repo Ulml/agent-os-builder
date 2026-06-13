@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-community
+langchain-anthropic
+langchain-google-genai
+langchain-xai
+streamlit
+python-dotenv
+sqlite3
+chromadb
+pandas
